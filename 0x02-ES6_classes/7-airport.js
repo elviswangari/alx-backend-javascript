@@ -5,7 +5,7 @@ class Airport {
   }
 
   strDes() {
-    return `[ object ${this.code}]`;
+    return `[object ${this.code}]`;
   }
 }
 export default Airport;
